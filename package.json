@@ -29,14 +29,14 @@
   "homepage": "https://github.com/ConsenSys/Tokens#readme",
   "dependencies": {
     "truffle": "4.0.1",
-    "truffle-hdwallet-provider": "0.0.3"
+    "truffle-hdwallet-provider": "1.0.17"
   },
   "devDependencies": {
     "eslint-plugin-import": "2.7.0",
-    "eslint-plugin-node": "5.1.0",
+    "eslint-plugin-node": "11.1.0",
     "eslint-plugin-react": "7.1.0",
     "eslint-plugin-standard": "3.0.1",
-    "standard": "10.0.2"
+    "standard": "17.1.0"
   },
   "standard": {
     "globals": [
